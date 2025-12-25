@@ -1,3 +1,5 @@
+# Pokedex7
+
 🧢 Pokédex — Projeto com HTML, CSS e JavaScript
 Esse foi um projeto que desenvolvi para praticar consumo de APIs, junto com HTML, CSS e JavaScript puro. A ideia era criar uma Pokédex interativa, que puxasse informações dos Pokémons direto da PokéAPI, exibindo nome, número, tipo, imagem e outros dados.
 
